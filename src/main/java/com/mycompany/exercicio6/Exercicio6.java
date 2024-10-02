@@ -7,7 +7,7 @@ package com.mycompany.exercicio6;
 
 /**
  *
- * @author Administrator
+ * @author Jhonatan Matos Schmitt
  */
 import javax.swing.JOptionPane;
 public class Exercicio6 {
