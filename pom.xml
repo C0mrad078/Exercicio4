@@ -10,5 +10,5 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <exec.mainClass>com.mycompany.exercicio6.Exercicio6</exec.mainClass>
     </properties>
-    <name>Exercicio6</name>
+    <name>Exercicio4</name>
 </project>
